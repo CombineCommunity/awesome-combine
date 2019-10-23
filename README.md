@@ -22,7 +22,7 @@ Send a pull request, and we'll happily merge it!
 
 ### Links, Tutorials & Articles
 
-* [Combine101](https://github.com/learncombine/Combine101) by Scott Gardner
+* [Combine101](https://github.com/learncombine/Combine101) and [HackingCombine](https://github.com/learncombine/HackingCombine) by Scott Gardner
 * [TryCombine](http://trycombine.com) by Marin Todorov
 * [Cocoa with Love](https://www.cocoawithlove.com/tags/combine.html) by Matt Gallagher
 * [SwiftLee](https://www.avanderlee.com/category/combine/) by Antoine van der Lee
