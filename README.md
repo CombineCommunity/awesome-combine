@@ -49,4 +49,4 @@ Send a pull request, and we'll happily merge it!
 ### Books
 
 * [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift) by [raywenderlich.com](https://raywenderlich.com)
-* [Using Combine](https://heckj.github.io/swiftui-notes/)
+* [Using Combine](https://heckj.github.io/swiftui-notes/) by [Joseph Heck](https://github.com/heckj)
