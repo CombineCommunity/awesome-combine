@@ -51,3 +51,4 @@ Send a pull request, and we'll happily merge it!
 * [Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift) by [raywenderlich.com](https://raywenderlich.com)
 * [Using Combine](https://heckj.github.io/swiftui-notes/) by [Joseph Heck](https://github.com/heckj)
 * [Understanding Combine](https://www.apeth.com/UnderstandingCombine/toc.html) by [Matt Neuburg](https://github.com/mattneub)
+* [Practical Combine: An introduction to Combine with real examples](https://gumroad.com/l/practical-combine) by [Donny Wals](https://github.com/donnywals)
