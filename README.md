@@ -56,4 +56,4 @@ Send a pull request, and we'll happily merge it!
 
 ### Tools
 
-* [Timelane - Visually profile your asynchronous code](http://timelane.tools) [free] by Marin Todorov
+* [Timelane](http://timelane.tools) - Visually profile your asynchronous code] [free] by Marin Todorov
