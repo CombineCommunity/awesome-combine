@@ -40,6 +40,7 @@ Send a pull request, and we'll happily merge it!
 
 * [CombineCocoa](http://github.com/CombineCommunity/CombineCocoa) - Combine publisher bridges for UIKit
 * [RxCombine](http://github.com/CombineCommunity/RxCombine) - Bi-directional type bridging between RxSwift and Apple's Combine framework
+* [CombineCloudKit](https://github.com/chris-araman/CombineCloudKit) - Swift Combine extensions for reactive CloudKit record processing
 * [CombineDataSources](http://github.com/CombineCommunity/CombineDataSources) - Table and collection view data sources for Combine
 * [CombineFeedback](https://github.com/sergdort/CombineFeedback) - Unidirectional reactive architecture using new Apple Combine framework
 * [Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework
